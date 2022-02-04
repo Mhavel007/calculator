@@ -1,6 +1,6 @@
 # calculator
 
-Projeto de uma Calculadora Básica.
+Projeto de uma Calculadora Básica. 
 
 Techs Utilizadas: JavaScript, HTML5 e CSS3.
 
